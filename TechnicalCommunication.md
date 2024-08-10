@@ -11,3 +11,12 @@ However, it has limitations like higher costs and the risk of hitting hardware l
 Horizontal scaling involves adding more servers to distribute the load across multiple machines. This method provides greater flexibility, improves fault tolerance, and is generally more cost-effective for handling increased traffic over time.
 
 After thorough analysis and careful consideration, Load balancers will be crucial in a horizontally scaled system, as they distribute incoming traffic across multiple servers, ensuring that no single server becomes a bottleneck. This distribution not only enhances performance,flexibility and scalability, but also improves system resilience, as the failure of a single server does not compromise the entire system.
+
+
+### References
+
+* [What is Load Balancers](https://www.f5.com/glossary/load-balancer)
+  
+* [Load Balancers and Their Role in Scaling](https://aws.amazon.com/what-is/load-balancing/)
+  
+* [Vertical vs Horizontal Scaling](https://www.cloudzero.com/blog/horizontal-vs-vertical-scaling/#:~:text=While%20horizontal%20scaling%20refers%20to,%2C%20storage%2C%20or%20network%20speed.)
