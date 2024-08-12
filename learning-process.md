@@ -9,7 +9,7 @@ Ans: Explaining the concept to others to get more clarity about it.
 ### Q2: Most interesting story or idea
 
 Ans:
-* Instead of reading and marking the textbook, look at it once then look away and 
+* Instead of reading and marking the textbook, look at it once then look away and
 recall it.
 
 * Testing ourselves every time by taking mini-tests, making flashcards of a topic and studying them in different places.
@@ -27,4 +27,3 @@ on a task in a fully focused mode without any distraction and get streamlined wi
 <br>
 
 ### Q4: what are the steps to take when approaching a new topic? Only mention the points.
-
