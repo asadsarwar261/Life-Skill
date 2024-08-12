@@ -1,8 +1,9 @@
 # Learning Process
 
-Q1: What is the Feynman Technique? 
+### Q1: What is the Feynman Technique? 
 
 Ans: Explaining the concept to others to get more clarity about it. 
+
 
 
 Q2: Most interesting story or idea
