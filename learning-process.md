@@ -28,4 +28,9 @@ recall it.
 - Deconstruct the skill
 - Learn enough to self correct
 - Remove barriers to practice
-- Practice for at least 20 hours
+- Practice for at least 20 hours  
+
+
+### Q5: What are some of the actions you can take going forward to improve your learning process?
+
+**Ans:**
