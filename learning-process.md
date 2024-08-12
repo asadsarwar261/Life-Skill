@@ -2,13 +2,14 @@
 
 ### Q1: What is the Feynman Technique? 
 
-Ans: Explaining the concept to others to get more clarity about it. 
+### Ans:
+Explaining the concept to others to get more clarity about it. 
 
 
 
-Q2: Most interesting story or idea
+### Q2: Most interesting story or idea
 
-Ans:
+### Ans:
 * Instead of reading and marking the textbook, look at it once then look away and recall it.
 
 * Testing ourselves every time by taking mini-tests, making flashcards of a topic and studying them in different places.
