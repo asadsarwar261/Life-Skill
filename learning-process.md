@@ -25,4 +25,7 @@ recall it.
 ### Q4: what are the steps to take when approaching a new topic? Only mention the points.  
 
 **Ans:** 
-- Deconstruct the skill.
+- Deconstruct the skill
+- Learn enough to self correct
+- Remove barriers to practice
+- Practice for at least 20 hours
