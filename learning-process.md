@@ -2,12 +2,12 @@
 
 ### Q1: What is the Feynman Technique?  
 
-Ans: Explaining the concept to others to get more clarity about it.  
+**Ans:** Explaining the concept to others to get more clarity about it.  
 
 
 ### Q2: Most interesting story or idea.  
 
-Ans:
+**Ans:**
 * Instead of reading and marking the textbook, look at it once then look away and
 recall it.  
 
@@ -16,7 +16,7 @@ recall it.
 
 ### Q3: What are active and diffused modes of thinking?  
 
-Ans: 
+**Ans:**
 * **Active Mode** is focused mode, it happens when we completely concentrate ourselves 
 on a task in a fully focused mode without any distraction and get streamlined with the process.
 
@@ -25,4 +25,4 @@ on a task in a fully focused mode without any distraction and get streamlined wi
 
 ### Q4: what are the steps to take when approaching a new topic? Only mention the points.  
 
-Ans: 
+**Ans:** 
