@@ -16,11 +16,11 @@ The key point is that believing you can control your destiny and can boost motiv
 
 ## 4. Key points to build a Growth Mindset  
 
-- **Praise Effort:** Complimenting people for their hard work instead of just their natural talent can make them more motivated and enjoy what they’re doing more.
-- **Believe in Your Control:** Thinking you have the power to influence your outcomes is crucial for staying motivated.
-- **Problem-Solving:** Seeing how your actions lead to improvements helps reinforce the idea that you can control your results.
-- **External Locus of Control:** Believing that outside factors determine your success can make you less motivated and put in less effort.
-- **Skillshare Courses:** Taking courses on platforms like Skillshare can help you improve your focus and boost your motivation by enhancing your sense of control.  
+- **Praise Effort**
+- **Believe in Your Control**
+- **Problem-Solving Skill**
+- **External Locus of Control**
+- **Skillshare Courses**
 
 ## 5. Ideas to take action and build Growth Mindset.  
 
