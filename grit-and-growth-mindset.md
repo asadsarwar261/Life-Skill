@@ -29,8 +29,8 @@ The key point is that believing you can control your destiny and can boost motiv
 - **Take Responsibility**
 - **Seek Feedback**
 - **Develop Problem-Solving Skills** by practicing problem solving.
-- **Manage External Factors** by indentifying external influences and focusing on what I can contol. 
-- **Leverage Educational Resources** by enrolling in courses and apply learning. 
+- **Manage External Factors** by indentifying external influences and focusing on what I can contol.
+- **Leverage Educational Resources** by enrolling in courses and apply learning.
 - **Adopt a Growth-Oriented Mindset in daily life**
 - **Getting surrounded with Growth-Minded people**
 - **Build a Supportive Environment**
