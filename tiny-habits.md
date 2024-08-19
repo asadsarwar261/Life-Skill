@@ -54,13 +54,13 @@ The extra steps create a barrier that makes it less likely for you to engage in 
 
 ## Q8: Pick one habit that you would like to do more of? What are the steps that you can take to make it make the cue obvious or the habit more attractive or easy and or response satisfying?
 
-To make reading every night a natural part of my routine, I’ll set the stage by placing a book on my pillow before I leave the room each morning.
-When I come to bed, the book is the first thing I see, ready and waiting. I’ll start with just one page keeping it simple then give myself a little fist pump after finishing.
+To make reading every night a natural part of my routine, I’ll set the stage by placing a book on my pillow before I leave the room each morning.<br>
+When I come to bed, the book is the first thing I see, ready and waiting. I’ll start with just one page keeping it simple then give myself a little fist pump after finishing.<br>
 This tiny celebration will make the habit something I look forward to each night.
 
 
 ## Q9: Pick one habit that you would like to eliminate or do less of? What are the steps that you can take to make it make the cue invisible or the process unattractive or hard or the response unsatisfying?
 
-To break the habit of scrolling on my phone at night, I’ll leave it charging in the living room before heading to bed.
-Out of sight, out of mind! Instead of mindlessly scrolling, I’ll reach for the book on my pillow.
+To break the habit of scrolling on my phone at night, I’ll leave it charging in the living room before heading to bed.<br>
+Out of sight, out of mind! Instead of mindlessly scrolling, I’ll reach for the book on my pillow.<br>
 As the habit of reading grows, the phone will become less and less tempting, making it easier to let go of that nighttime distraction.
