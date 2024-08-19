@@ -40,7 +40,6 @@ To make a habit easier to do, the book suggests using strategies that reduce fri
 **The Two-Minute Rule:** The book advises starting with a version of the habit that takes two minutes or less
 **Prime the Environment:** Optimize your environment to make the desired habit the default action.  
 
-
 ## Q7: Write about the book's perspective on how to make a habit harder to do?  
 
 To make a habit harder to do, the book suggests strategies that increase friction and reduce convenience.
@@ -50,4 +49,6 @@ The extra steps create a barrier that makes it less likely for you to engage in 
 **Inversion of the Two-Minute Rule:** Just as the two-minute rule is used to start a good habit, it can be used to make bad habits harder. Adding time in the involvement of bad habbit can discourage you from indulging.
 
 **Designing Your Environment:** Make undesirable habits more difficult by altering environment.  
+
+## Q8: Pick one habit that you would like to do more of? What are the steps that you can take to make it make the cue obvious or the habit more attractive or easy and or response satisfying?
 
