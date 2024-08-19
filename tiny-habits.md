@@ -62,5 +62,5 @@ This tiny celebration will make the habit something I look forward to each night
 ## Q9: Pick one habit that you would like to eliminate or do less of? What are the steps that you can take to make it make the cue invisible or the process unattractive or hard or the response unsatisfying?
 
 To break the habit of scrolling on my phone at night, I’ll leave it charging in the living room before heading to bed.<br>
-Out of sight, out of mind! Instead of mindlessly scrolling, I’ll reach for the book on my pillow.<br>
+Keeping the mobile out of sight and out of mind and instead of mindlessly scrolling, I’ll reach for the book on my pillow.<br>
 As the habit of reading grows, the phone will become less and less tempting, making it easier to let go of that nighttime distraction.
