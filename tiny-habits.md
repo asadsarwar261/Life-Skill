@@ -37,7 +37,9 @@ As per book the most effective way to change your habits is to focus on who you 
 To make a habit easier to do, the book suggests using strategies that reduce friction and increase convenience.  
 
 **Reduce Friction:** Minimize the steps required to perform the habit.<br>
+
 **The Two-Minute Rule:** The book advises starting with a version of the habit that takes two minutes or less.<br>
+
 **Prime the Environment:** Optimize your environment to make the desired habit the default action.<br>  
 
 ## Q7: Write about the book's perspective on how to make a habit harder to do?  
