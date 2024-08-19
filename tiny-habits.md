@@ -26,4 +26,10 @@ It brings a good emotion of accomplishment and this feeling becomes dopamine for
 
 ## Q4: what was the most interesting story or idea for you?
 
-To execute a habit first shrink a habit to the most tiny version and easy behaviour that can be completed in 30 seconds or less then use an action promptly to trigger the tiny habit, to start the habit with momentum and after completing the habit always celebrate the completion of habit, the more you celebrate the faster the habit will grow.
+To execute a habit first shrink a habit to the most tiny version and easy behaviour that can be completed in 30 seconds or less then use an action promptly to trigger the tiny habit, to start the habit with momentum and after completing the habit always celebrate the completion of habit, the more you celebrate the faster the habit will grow.  
+
+
+## Q5: What is the book's perspective about Identity?
+
+As per book the most effective way to change your habits is to focus on who you want to become, not just what you want to achieve.  
+
