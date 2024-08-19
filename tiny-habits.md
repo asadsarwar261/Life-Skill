@@ -13,10 +13,10 @@ M for Motivation<br>
 A for Ability<br>
 P for Prompt<br>
 
-Behavior: Reading one page of a book.
-Motivation: I enjoy reading, but sometimes I feel too tired or busy.
-Ability: Starting with reading just one page.
-Prompt: Daily at right reading one page just before going to bed.  
+Behavior: Reading one page of a book.<br>
+Motivation: I enjoy reading, but sometimes I feel too tired or busy.<br>
+Ability: Starting with reading just one page.<br>
+Prompt: Daily at right reading one page just before going to bed.<br>
 
 ## Q3: Why it is important to "Shine" or Celebrate after each successful completion of a habit?  
 
