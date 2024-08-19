@@ -8,10 +8,10 @@ To achieve goals, you need to focus on the small step, not the goal itself. Smal
 
 ## Q2: How can you use B = MAP to make making new habits easier? What are M, A and P?  
 
-B for Behaviour
-M for Motivation
-A for Ability
-P for Prompt
+B for Behaviour<br>
+M for Motivation<br>
+A for Ability<br>
+P for Prompt<br>
 
 Behavior: Reading one page of a book.
 Motivation: I enjoy reading, but sometimes I feel too tired or busy.
