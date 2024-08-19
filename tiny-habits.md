@@ -28,7 +28,6 @@ It brings a good emotion of accomplishment and this feeling becomes dopamine for
 
 To execute a habit first shrink a habit to the most tiny version and easy behaviour that can be completed in 30 seconds or less then use an action promptly to trigger the tiny habit, to start the habit with momentum and after completing the habit always celebrate the completion of habit, the more you celebrate the faster the habit will grow.  
 
-
 ## Q5: What is the book's perspective about Identity?
 
 As per book the most effective way to change your habits is to focus on who you want to become, not just what you want to achieve.  
@@ -40,4 +39,15 @@ To make a habit easier to do, the book suggests using strategies that reduce fri
 **Reduce Friction:** Minimize the steps required to perform the habit.
 **The Two-Minute Rule:** The book advises starting with a version of the habit that takes two minutes or less
 **Prime the Environment:** Optimize your environment to make the desired habit the default action.  
+
+
+## Q7: Write about the book's perspective on how to make a habit harder to do?  
+
+To make a habit harder to do, the book suggests strategies that increase friction and reduce convenience.
+
+The extra steps create a barrier that makes it less likely for you to engage in the habit impulsively.
+
+**Inversion of the Two-Minute Rule:** Just as the two-minute rule is used to start a good habit, it can be used to make bad habits harder. Adding time in the involvement of bad habbit can discourage you from indulging.
+
+**Designing Your Environment:** Make undesirable habits more difficult by altering environment.  
 
