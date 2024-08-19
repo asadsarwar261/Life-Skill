@@ -33,3 +33,11 @@ To execute a habit first shrink a habit to the most tiny version and easy behavi
 
 As per book the most effective way to change your habits is to focus on who you want to become, not just what you want to achieve.  
 
+## Q6: Write about the book's perspective on how to make a habit easier to do?
+
+To make a habit easier to do, the book suggests using strategies that reduce friction and increase convenience.
+
+**Reduce Friction:** Minimize the steps required to perform the habit.
+**The Two-Minute Rule:** The book advises starting with a version of the habit that takes two minutes or less
+**Prime the Environment:** Optimize your environment to make the desired habit the default action.  
+
