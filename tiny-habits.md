@@ -23,3 +23,7 @@ Prompt: Daily at right reading one page just before going to bed.
 Because it reinforces the behaviour to repeat and helps in making it more automatic over the time.
 
 It brings a good emotion of accomplishment and this feeling becomes dopamine for repeating that task.
+
+## Q4: what was the most interesting story or idea for you?
+
+To execute a habit first shrink a habit to the most tiny version and easy behaviour that can be completed in 30 seconds or less then use an action promptly to trigger the tiny habit, to start the habit with momentum and after completing the habit always celebrate the completion of habit, the more you celebrate the faster the habit will grow.
