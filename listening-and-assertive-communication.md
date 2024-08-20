@@ -34,3 +34,20 @@
 - Try to stick to the schedule.
 - Paying more attention.
 - Not getting distracted in own thoughts.
+
+
+### Q5: When do you switch to Passive communication style in your day to day life?
+
+ - When I feel uneasy or not well.
+ - When speaking to someone very authoritative, or dominant
+ - when conversation is too boring.
+ - If I have some other important work to meet deadline, to quickly end the conversation.
+
+
+### Q6: When do you switch into Aggressive communication styles in your day to day life? 
+
+ - When conversation is offending.
+ - If I am being irritated or troubled, and not stopping even after saying not to.
+ - when someone forces me to do something, despite declining repeatedly.
+ - When somone tries to be aggressive, and not listen in peaceful way repeatedly.
+ - If someone tries to harass. 
