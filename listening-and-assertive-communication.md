@@ -1,12 +1,14 @@
 # Listening and Active Communication
 
 ### Q1: What are the steps/strategies to do Active Listening?
+
 - Do not interrupt the other person while they are speaking. wait for them to finish then respond.
 - Use door openers. Show the person that you're interested in listening to that topic and keep the other person talking.
 - Show that you are listening with body language.
 - Take notes during important conversations.
 - Avoid getting distracted by your own thoughts. 
 - Focus on the speaker and topic.
+
 
 ### Q2: According to Fisher's model, what are the key points of Reflective.
 
@@ -38,16 +40,33 @@
 
 ### Q5: When do you switch to Passive communication style in your day to day life?
 
- - When I feel uneasy or not well.
- - When speaking to someone very authoritative, or dominant
- - when conversation is too boring.
- - If I have some other important work to meet deadline, to quickly end the conversation.
+- When I feel uneasy or not well.
+- When speaking to someone very authoritative, or dominant
+- when conversation is too boring.
+- If I have some other important work to meet deadline, to quickly end the conversation.
 
 
 ### Q6: When do you switch into Aggressive communication styles in your day to day life? 
 
- - When conversation is offending.
- - If I am being irritated or troubled, and not stopping even after saying not to.
- - when someone forces me to do something, despite declining repeatedly.
- - When somone tries to be aggressive, and not listen in peaceful way repeatedly.
- - If someone tries to harass. 
+- When conversation is offending.
+- If I am being irritated or troubled, and not stopping even after saying not to.
+- when someone forces me to do something, despite declining repeatedly.
+- When somone tries to be aggressive, and not listen in peaceful way repeatedly.
+- If someone tries to harass.
+
+
+### Q7: When do you switch into Passive Aggressive (sarcasm/gossiping/taunts/silent treatment and others) communication styles in your day to day life?
+
+- When i am with friends Only.
+- when one don't listen, depsite saying politely often.
+- When someone try to invade my privacy.
+
+
+### 8: How can you make your communication assertive? You can watch and analyse the videos, then think what would be a few steps you can apply in your own life? (Watch the videos first before answering this question.)
+
+- By trying to recognize and name the feelings that arise.
+- Recognize needs that I want to address to the person that I am conversing with.
+- By practicing them with people that I feel comfortable with.
+- By being aware of the body language.
+- Avoiding to be aggressive.
+- By clarifying what I know and what I need to know.
