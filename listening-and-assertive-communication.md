@@ -17,3 +17,20 @@
 - We must quiet our minds and focus completely on the speaker's mood, reflecting his emotional state through words and non-verbal communication.
 - We can summarise what the speaker said, using his own words.
 - We have to respond to the speaker's specific point without deviating from other subjects.
+
+
+### Q3: What are the obstacles in your listening process?
+
+- Get distracted by my own.
+- Don't tend to take notes.
+- Can’t understand fast.
+- Trouble with different accent
+- Tendency to understand every word. 
+
+
+### 4: What can you do to improve your listening?
+
+- Focusing one at a time.
+- Try to stick to the schedule.
+- Paying more attention.
+- Not getting distracted in own thoughts.
