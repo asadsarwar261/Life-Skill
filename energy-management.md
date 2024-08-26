@@ -29,3 +29,25 @@
 * Enough sleep time is 7-8 hours.
 * Sleep's impact on our learning, memory, and immune system.
 
+### Q5: What are some ideas that you can implement to sleep better?
+
+* Regularity of bedtime and wake-up time.
+* Regular exercise to maintain a healthy lifestyle.
+* Avoid larger meals for dinner.
+* Before going to sleep, avoid the use of smartphones.
+
+### Q6: Brain Changing Benefits of Exercise.
+
+* Generating new brain cells - Exercise stimulates the growth of new brain cells, especially in the memory and learning center called the hippocampus.
+* Enhancing cognitive function - Exercise improves attention, memory, and processing speed, enhancing overall cognitive abilities.
+* Lowering the risk of cognitive decline - Regular exercise reduces the risk of cognitive decline and dementia while supporting brain health.
+* Elevating mood - Exercise increases the production of mood-enhancing chemicals like endorphins, reducing symptoms of depression and anxiety.
+* Reducing stress - Exercise decreases stress hormone levels like cortisol and induces relaxation through the release of endorphins.
+
+
+### Q7: What are some steps you can take to exercise more?
+
+* Whenever possible make use of the stairs.
+* Daily exercise/gym.
+* Make a record of physical activity like bench press, deadlift, sqauts.
+* Getting a nutriosious meal.
